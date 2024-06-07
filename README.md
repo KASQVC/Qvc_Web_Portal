@@ -1,6 +1,7 @@
 # Qvc_Web_Portal
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is for the creation of QxH's web portal. This will contain everything needed on the boradcastin side of QxH. From editing tags and headers of shows, publishing show times to crispin.
+(also has a settings page for quick commands that are typically done manually)
 
 ## Recommended IDE Setup
 
